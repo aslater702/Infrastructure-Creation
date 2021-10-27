@@ -24,4 +24,4 @@ jobs:
 workflows:
   my_workflows:
     jobs:
-      - configure_infrastructure
+      - create_infrastructure
